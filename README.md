@@ -1,1 +1,1 @@
-# ORDER_DELIVERY_TIME_PREDICTOR
+This project predicts the estimated delivery time (in days) for customer orders using machine learning trained on the Olist E-commerce dataset. Users input the payment value, purchase day of the week, and hour of purchase through an interactive Streamlit web app, which then provides a predicted delivery duration. The model was trained using features engineered from real order data, aiming to help e-commerce platforms improve logistics planning and customer satisfaction.
